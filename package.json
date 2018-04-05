@@ -1,7 +1,7 @@
 {
   "name": "react-material-toggle",
   "version": "0.0.1",
-  "description": "",
+  "description": "Material Design Toggle component for React",
   "main": "build/index.js",
   "peerDependencies": {
     "react": "^15.5.4"
